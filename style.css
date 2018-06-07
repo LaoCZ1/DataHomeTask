@@ -1,0 +1,24 @@
+#data-block{
+	position: relative;
+	left: 300px;
+	top: 100px;
+	width: 400px;
+	height: 200px;
+background-color: #cc0;
+text-align: center; 
+}
+h3{
+	position: relative;
+	top: 30px;
+}
+p{
+	position: relative;
+	top: 30px;
+}
+#data{
+	position: relative;
+	left: 150px;
+	top: 20px;
+	height: 30px;
+	width: 100px;
+}
